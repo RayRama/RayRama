@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, My name is Ray Ramadita. You can call me Ray or Rama. <br>I'm Full-Stack Developer and Mobile Developer that focused on <br>ReactJs, NextJs, Laravel, HTML, CSS , and React Native. Recently I'm focusing on improving my programming skills by taking various online courses.
+Hi, My name is Ray Ramadita. You can call me Ray or Rama. I'm Full-Stack Developer and Mobile Developer that focused on ReactJs, NextJs, Laravel, HTML, CSS , and React Native. Recently I'm focusing on improving my programming skills by taking various online courses. Nice to meet you!
 
 
 ## 🌐 Socials:
